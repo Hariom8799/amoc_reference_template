@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+wp.jmsthemes.com	TRUE	/erado/	FALSE	1999999999	woocommerce_items_in_cart	1
+wp.jmsthemes.com	TRUE	/erado/	FALSE	1999999999	wp_woocommerce_session_55d071b9b5bf96e16109461945fc4504	t_bdaf2d93c23db97bdc3c4f4edd9486%7C%7C1701167867%7C%7C1701164267%7C%7C6deec6700f5a57ee86d64a738e39b811
+wp.jmsthemes.com	TRUE	/erado/	FALSE	1999999999	woocommerce_cart_hash	5fe36ee21742f6e19d4f57964ec72f80
+
